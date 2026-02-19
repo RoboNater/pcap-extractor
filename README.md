@@ -1,4 +1,4 @@
-# w518-pcap-extractor
+# pcap-extractor
 
 Extract UDP payload data from Wireshark `.pcapng` (or `.pcap`) capture files.
 
